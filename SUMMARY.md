@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Lexer](lexer.md)
 * [Parser](parser.md)
 * [Code Generation](codegen.md)
